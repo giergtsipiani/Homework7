@@ -1,0 +1,52 @@
+/* //////fonts////// */
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin:wght@600&display=swap');
+
+
+/* ///////header////// */
+.header-wrapper{
+    padding-top: 53px;
+
+}
+
+.header-div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1220px;
+    height: 65px;
+    margin: 0 auto;
+
+}
+.logo{
+    width: 200px;
+    height: 38px;
+}
+.ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 40px;
+}
+.li-item{
+    font-size: 18px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    line-height: 21.5px;
+    color: #37393F;
+
+}  
+.get-consulting-div{
+    width: 184px;
+    height: 65px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #6B77E5;
+    font-size: 18px;
+    font-family: 'Cabin', sans-serif;
+    font-weight: 600;
+    line-height: 21.87px;
+    color: #FFFFFF;
+
+} 
