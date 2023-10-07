@@ -66,7 +66,18 @@
     line-height: 21.87px;
     color: #FFFFFF;
 
+    transition: all 0.3s linear 0.15s;
+
 } 
+.get-consulting-div:hover{
+    background-color: rgba(60, 62, 182, 0.854);
+    opacity: 0.8;
+    color: rgb(216, 226, 226);
+    box-shadow: 4px 4px 15px rgb(155, 116, 116);
+    
+    
+
+}
 /* ///////////main/////////// */
 
 /* ///container1////// */
